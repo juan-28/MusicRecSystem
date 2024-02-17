@@ -36,18 +36,7 @@ The project utilizes the Million Song Dataset, enriched with additional data lik
 - Analysis of model performance using metrics like Root Mean Square Error (RMSE).
 - Insights into thematic patterns and user preferences. [Include screenshot of thematic visualization]
 
-## Limitations and Future Work
 
-Discussion of challenges like the absence of ground truth labels and potential improvements through user feedback integration and hybrid filtering techniques.
 
-## Conclusion
 
-Summarize the effectiveness of the combined approach and the learning outcomes from this project.
 
-## References
-
-List of references used in the project.
-
----
-
-Please replace the placeholders like "[Include formula for loss function minimization]" and "[Include screenshot of thematic visualization]" with the actual content from your paper where appropriate.
